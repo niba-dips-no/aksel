@@ -41,12 +41,12 @@
 <url> <loc>https://design.nav.no/components/lukknapp/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/lukknapp/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/modal/accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/components/panel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/components/panel/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/components/panel/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/modal</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/modal/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/modal/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/components/panel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/components/panel/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/components/panel/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/popover/accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/popover</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/popover/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

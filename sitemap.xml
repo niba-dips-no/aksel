@@ -113,12 +113,12 @@
 <url> <loc>https://design.nav.no/components/radio</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/radio/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/radio/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/components/select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/components/select/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/components/select/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/radiopanelgruppe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/radiopanelgruppe/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/radiopanelgruppe/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/components/select</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/components/select/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/components/select/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/skjemagruppe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/skjemagruppe/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/skjemagruppe/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

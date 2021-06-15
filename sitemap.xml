@@ -127,7 +127,6 @@
 <url> <loc>https://design.nav.no/components/textarea/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/textarea/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/accessibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/beta/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/patterns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -137,9 +136,6 @@
 <url> <loc>https://design.nav.no/accessibility/overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/accessibility/placeholders/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/accessibility/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/beta/components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/beta/getting-started/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/beta/guidelines/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/components/other/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/patterns/form-validation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/resources/colors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -151,8 +147,6 @@
 <url> <loc>https://design.nav.no/resources/new-project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/resources/subdomains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/resources/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/beta/components/alert/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/beta/components/button/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/resources/colors/accessibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/resources/colors/palette/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/resources/colors/technical/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

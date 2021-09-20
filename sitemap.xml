@@ -136,15 +136,15 @@
 <url> <loc>https://design.nav.no/designsystem/accessibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/designsystem/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/patterns/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/designsystem/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/accessibility/alt-text/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/accessibility/disabled/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/accessibility/overview/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/designsystem/accessibility/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/accessibility/placeholders/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/designsystem/patterns/form-validation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/designsystem/accessibility/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/other/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/designsystem/patterns/form-validation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/patterns/livssituasjonssider/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/patterns/produktsider/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/colors/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -152,8 +152,8 @@
 <url> <loc>https://design.nav.no/designsystem/resources/identity/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/illustrations/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/internal-ux-principles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/designsystem/resources/new-project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/language/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/designsystem/resources/new-project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/subdomains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/typography/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/colors/accessibility/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -166,6 +166,6 @@
 <url> <loc>https://design.nav.no/designsystem/resources/illustrations/resources/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/language/checklist/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/language/guidelines/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/designsystem/resources/language/units/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/resources/language/principles/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/designsystem/resources/language/units/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

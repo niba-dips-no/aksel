@@ -3,9 +3,11 @@
 <url> <loc>https://design.nav.no/god-praksis/amplitude</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/god-praksis/brukertest</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/god-praksis/hotjar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/god-praksis/kortsortering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/god-praksis/malinger</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/god-praksis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/god-praksis/task-analytics</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/god-praksis/tretesting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/alertstripe/accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/alertstripe</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/alertstripe/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

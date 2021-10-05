@@ -23,7 +23,6 @@
 <url> <loc>https://design.nav.no/designsystem/components/etikett</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/etikett/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/etikett/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://design.nav.no/designsystem/components/hjelpetekst/accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/hjelpetekst</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/hjelpetekst/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/hjelpetekst/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -34,6 +33,7 @@
 <url> <loc>https://design.nav.no/designsystem/components/knapp</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/knapp/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/knapp/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://design.nav.no/designsystem/components/hjelpetekst/accessibility</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/lenkepanel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/lenkepanel/overview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://design.nav.no/designsystem/components/lenkepanel/technical</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

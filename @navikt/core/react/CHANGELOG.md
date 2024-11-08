@@ -1,5 +1,19 @@
 # @navikt/ds-react
 
+## 7.5.0
+
+### Minor Changes
+
+- React: Allow all react versions above 17.0.0 trough peerDependencies. ([#3334](https://github.com/navikt/aksel/pull/3334))
+
+### Patch Changes
+
+- Datepicker: Use of 'open'-prop set to 'true' on first render could lead to the dialog not opening. ([#3333](https://github.com/navikt/aksel/pull/3333))
+
+- Updated dependencies []:
+  - @navikt/ds-tokens@7.5.0
+  - @navikt/aksel-icons@7.5.0
+
 ## 7.4.3
 
 ### Patch Changes
